@@ -1,0 +1,8 @@
+{
+  "name": "campusai-video",
+  "description": "How CampusAI makes video with Claude: the process, the real product from the demos, Raylight, the Remotion studio, captions, sound, and a learning loop that improves every video.",
+  "version": "1.0.0",
+  "author": { "name": "CampusAI" },
+  "homepage": "https://github.com/CampusAI-app/campusai-video-kit",
+  "repository": "https://github.com/CampusAI-app/campusai-video-kit"
+}

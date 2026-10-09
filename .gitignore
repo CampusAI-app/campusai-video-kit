@@ -1,0 +1,6 @@
+node_modules/
+studio/out/
+.DS_Store
+# Her own learning folder is created from learning-starter/ by install.sh and stays local,
+# so pulling updates never touches what she has learned.
+learning/

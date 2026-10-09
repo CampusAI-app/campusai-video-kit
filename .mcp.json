@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "raylight": { "type": "http", "url": "https://api.raylight.app/mcp" },
+    "motion": { "type": "http", "url": "https://mcp.motion.dev/mcp" },
+    "context7": { "type": "http", "url": "https://mcp.context7.com/mcp" },
+    "deepwiki": { "type": "http", "url": "https://mcp.deepwiki.com/mcp" },
+    "inspo": { "type": "http", "url": "https://inspomcp.dev/api/mcp" }
+  }
+}

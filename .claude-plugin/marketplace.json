@@ -1,0 +1,12 @@
+{
+  "name": "campusai-video-kit",
+  "owner": { "name": "CampusAI" },
+  "description": "CampusAI's video skills and connectors, updated as one plugin.",
+  "plugins": [
+    {
+      "name": "campusai-video",
+      "source": "./",
+      "description": "The campusai-video and hook-retention-psychology skills, plus the Raylight, Motion, Context7, DeepWiki and Inspo connectors."
+    }
+  ]
+}
