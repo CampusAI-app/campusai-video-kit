@@ -1,3 +1,15 @@
+# Retired: use CampusAI Studio
+
+This kit was replaced on Oct 23, 2026 by **[CampusAI Studio](https://github.com/CampusAI-app/campusai-studio)**, the one studio Jacob and the team share. Install it with:
+
+```bash
+curl -fsSL https://raw.githubusercontent.com/CampusAI-app/campusai-studio/main/install.sh | bash
+```
+
+Nothing here is updated anymore. The old README is below for reference.
+
+---
+
 # CampusAI video kit
 
 How the CampusAI team makes video with Claude: the process, the tools, our Remotion studio as a
